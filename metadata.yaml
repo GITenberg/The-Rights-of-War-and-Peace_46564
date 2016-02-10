@@ -1,0 +1,31 @@
+_repo: The-Rights-of-War-and-Peace_46564
+contributor:
+  translator:
+    agent_name: Campbell, A. C.
+    gutenberg_agent_id: '43850'
+    url: http://www.gutenberg.org/2009/agents/43850
+covers:
+- cover_type: archival
+  image_path: 46564/46564-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Grotius, Hugo
+    alias: Groot, Hugo de
+    birthdate: 1583
+    deathdate: 1645
+    gutenberg_agent_id: '5744'
+    url: http://www.gutenberg.org/2009/agents/5744
+    wikipedia: http://en.wikipedia.org/wiki/Hugo_Grotius
+description: ''
+gutenberg_issued: '2014-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46564'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: The Rights of War and Peace
+url: http://www.gutenberg.org/ebooks/46564
