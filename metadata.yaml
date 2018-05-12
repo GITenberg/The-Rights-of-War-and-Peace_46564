@@ -1,4 +1,5 @@
 _repo: The-Rights-of-War-and-Peace_46564
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Campbell, A. C.
@@ -6,9 +7,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/43850
 covers:
 - cover_type: archival
-  image_path: 46564/46564-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46564-h/images/cover.jpg
 creator:
   author:
     agent_name: Grotius, Hugo
@@ -19,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5744
     wikipedia: http://en.wikipedia.org/wiki/Hugo_Grotius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46564#The-Rights-of-War-and-Peace
 gutenberg_issued: '2014-08-11'
 gutenberg_type: Text
 identifiers:
